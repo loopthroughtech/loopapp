@@ -37,7 +37,7 @@ export default function Header({ className }) {
             variant="secondary"
             aria-label="Get Started"
           >
-            Start Reading
+            Explore
           </Button>
           </a>
 
