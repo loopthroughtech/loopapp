@@ -31,14 +31,15 @@ export default function Header({ className }) {
               </Link>
             ))}
           </Flex>
-
+          <a href="https://blog.loopthrough.tech">
           <Button
             className="donate__btn"
             variant="secondary"
             aria-label="Get Started"
           >
-            Get Started
+            Start Reading
           </Button>
+          </a>
 
           <MobileDrawer />
         </Container>

@@ -5,14 +5,14 @@ export default [
   },
   {
     path: 'feature',
-    label: 'Features',
+    label: 'Services',
   },
   {
     path: 'testimonial',
-    label: 'Testimonial',
+    label: 'Featured Blogs',
   },
   {
-    path: 'pricing',
-    label: 'Pricing',
+    path: 'workflow',
+    label: 'Join Us',
   },
 ];

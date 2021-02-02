@@ -24,12 +24,12 @@ export default function IndexPage() {
           <Banner />
           <KeyFeature />
           <CoreFeature />
-          <Feature />
-          <PartnerSection />
+          {/* <Feature /> */}
+          {/* <PartnerSection /> */}
           <WorkFlow />
           <TestimonialCard />
-          <SecurePayment />
-          <Package />
+          {/* <SecurePayment />
+          <Package /> */}
           <Faq />
         </Layout>
       </StickyProvider>

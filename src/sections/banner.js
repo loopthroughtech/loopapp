@@ -13,24 +13,24 @@ import client2 from 'assets/sponsor/google.svg';
 import client3 from 'assets/sponsor/dropbox.svg';
 
 const data = [
-  {
-    id: 1,
-    path: '#',
-    image: client1,
-    title: 'paypal',
-  },
-  {
-    id: 2,
-    path: '#',
-    image: client2,
-    title: 'google',
-  },
-  {
-    id: 3,
-    path: '#',
-    image: client3,
-    title: 'dropbox',
-  },
+  // {
+  //   id: 1,
+  //   path: '#',
+  //   image: client1,
+  //   title: 'paypal',
+  // },
+  // {
+  //   id: 2,
+  //   path: '#',
+  //   image: client2,
+  //   title: 'google',
+  // },
+  // {
+  //   id: 3,
+  //   path: '#',
+  //   image: client3,
+  //   title: 'dropbox',
+  // },
 ];
 
 export default function Banner() {
@@ -50,9 +50,11 @@ export default function Banner() {
           Have got ideas floating around your which you want to share. We got you covered.
           </Text>
           <Flex>
+            <a href="https://blog.loopthrough.tech">
             <Button variant="whiteButton" aria-label="Get Started">
-              Get Started
+              Start Reading
             </Button>
+            </a>
             <>
               <ModalVideo
                 channel="youtube"
@@ -63,14 +65,13 @@ export default function Banner() {
               <Button
                 variant="textButton"
                 aria-label="Watch Video"
-                onClick={handleClick}
               >
-                <FaPlayCircle /> Watch Video
+                <FaPlayCircle /> Join Now
               </Button>
             </>
           </Flex>
           <Flex sx={styles.sponsorBox}>
-            <Text sx={styles.sponsorTitle}>Sponsored by:</Text>
+            <Text sx={styles.sponsorTitle}>To Blog = To share, To connect, To create, To inspire </Text>
             <Box sx={styles.sponsorBox.sponsor}>
               {data.map((item, index) => (
                 <Link path={item.path} key={`client-key${index}`}>
