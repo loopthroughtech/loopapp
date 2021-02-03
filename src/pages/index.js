@@ -31,7 +31,7 @@ export default function IndexPage() {
           {/* <SecurePayment />
           <Package /> */}
           <Faq />
-          <iframe src='spline/index.html' frameBorder='0' width='100%' height='600px'></iframe>
+          <iframe src='spline/index.html' frameBorder='0' width='100%' height='550px'></iframe>
         </Layout>
       </StickyProvider>
     </ThemeProvider>
