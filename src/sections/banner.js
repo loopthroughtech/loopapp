@@ -62,12 +62,14 @@ export default function Banner() {
                 videoId="ZNA9rmDsYVE"
                 onClose={() => setVideoOpen(false)}
               />
+              <a href='http://join.loopthrough.tech'>
               <Button
                 variant="textButton"
                 aria-label="Watch Video"
               >
                 <FaPlayCircle /> Join Now
               </Button>
+              </a>
             </>
           </Flex>
           <Flex sx={styles.sponsorBox}>

@@ -4,44 +4,34 @@ import SectionHeader from 'components/section-header';
 import Accordion from 'components/accordion/accordion';
 const faqs = [
   {
-    title: 'How to contact with riders emergency ?',
+    title: 'How to be an author at loopthrough ?',
     contents: (
       <div>
-        Get your website ads tests delivered at let collect sample from the
-        victory of the managements that supplies best design system which
-        guidelines ever with multiple features.
+        Simply go to the <a herif= 'http://join.loopthrough.tech'>join us </a>page and sign up. Contact us in case of any issues.
       </div>
     ),
   },
   {
-    title: 'App installation failed, how to update system information?',
+    title: 'Do i have the rights to repost my blogs ?',
     contents: (
       <div>
-        Rhino skin maybe thick but it can be quite sensitive to sunburns and
-        insect bites which is why they like wallow so much – when the mud dries
-        it acts as protection from the sunburns and insects.
+         Yes. The autor will have the rigts to repost his work in other platforms. 
       </div>
     ),
   },
   {
-    title: `Website response taking time, how to improve?`,
+    title: `Do i need to know coding to write blogs ?`,
     contents: (
       <div>
-        Get your blood tests delivered at the home collect a sample from
-        management news. Get your blood tests delivered at the home collect a
-        sample from management news. Get your blood tests delivered at the home
-        collect a sample from management news. Get your blood tests delivered at
-        the home.
+        We have a very intutive UI for the blogers thanks to ghost. Loopthrough is build for everyone. Writing is easy as never before. But with a bit more tips and tricks it can be way better.
       </div>
     ),
   },
   {
-    title: `New update fixed all bug and issues`,
+    title: `Is loopthrough topic specific ?`,
     contents: (
       <div>
-        If you’re looking to hunt a unicorn, but don’t know where to begin, try
-        Lake Superior State University in Sault Ste. Marie, Michigan. Since
-        1971, the university has issued permits to unicorn questers.
+        Nop. We love to have all types of nice contents. let it be tech, code, story, or poem this is the platform for you. If you are having something completely out of box let us know ): 
       </div>
     ),
   },

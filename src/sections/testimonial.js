@@ -13,44 +13,44 @@ import Avatar4 from 'assets/testimonial/avatar4.png';
 const data = [
   {
     id: 1,
-    title: 'Modern look & trending design',
+    title: 'Python plays FIFA',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'As u can see from the video the whole working mechanism is that we get the coordinates of where the user is pointing to, and if these coordinates are in a particular region of the screen we simulate the keyboard accordingly',
     avatar: Avatar1,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
+    name: 'Aromal Jose Baby',
+    designation: '@aromal',
     review: 4,
   },
   {
     id: 2,
-    title: 'Design Quality & performance',
+    title: 'Tenserflow in Android?',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
-    avatar: Avatar2,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
+      'The time when ML projects only worked in the creator\'s computers are long gone, we now live in the era of deployment, and learning how to deploy your ML and deep learning can take you a long way in your career.',
+    avatar: Avatar1,
+    name: 'Aromal Jose Baby',
+    designation: '@aromal',
     review: 5,
   },
-  {
-    id: 3,
-    title: 'Layout and organized layers',
-    description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
-    avatar: Avatar3,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
-    review: 5,
-  },
-  {
-    id: 4,
-    title: 'Modern look & trending design',
-    description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
-    avatar: Avatar4,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
-    review: 4,
-  },
+  // {
+  //   id: 3,
+  //   title: 'Layout and organized layers',
+  //   description:
+  //     'As u can see from the video the whole working mechanism is that we get the coordinates of where the user is pointing to, and if these coordinates are in a particular region of the screen we simulate the keyboard accordingly.',
+  //   avatar: Avatar3,
+  //   name: 'Aromal Jose Baby',
+  //   designation: '@aromal',
+  //   review: 5,
+  // },
+  // {
+  //   id: 4,
+  //   title: 'Modern look & trending design',
+  //   description:
+  //     'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+  //   avatar: Avatar4,
+  //   name: 'Denny Hilguston',
+  //   designation: '@denny.hil',
+  //   review: 4,
+  // },
 ];
 
 const responsive = {
@@ -80,7 +80,7 @@ export default function TestimonialCard() {
   return (
     <section id="testimonial" sx={{ variant: 'section.testimonial' }}>
       <Container>
-        <SectionHeader slogan="Testimonial" title="Meet Client Satisfaction" />
+        <SectionHeader slogan="Featured Blogs" title="Meet some of our blogs" />
       </Container>
       <Box sx={styles.carouselWrapper}>
         <Carousel
