@@ -15,7 +15,7 @@ const faqs = [
     title: 'Do i have the rights to repost my blogs ?',
     contents: (
       <div>
-         Yes. The autor will have the rigts to repost his work in other platforms. 
+         Yes. The autor will have the complete rights to repost his work in other platforms. 
       </div>
     ),
   },
@@ -31,7 +31,7 @@ const faqs = [
     title: `Is loopthrough topic specific ?`,
     contents: (
       <div>
-        Nop. We love to have all types of nice contents. let it be tech, code, story, or poem this is the platform for you. If you are having something completely out of box let us know ): 
+        Nope, We love to have all types of nice contents. let it be tech, code, story, or a poem this is the platform for you. If you are having something completely out of box let us know :) 
       </div>
     ),
   },

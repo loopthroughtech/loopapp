@@ -8,24 +8,24 @@ import Briefcase from 'assets/core-feature/briefcase.svg';
 import Secure from 'assets/core-feature/secure.svg';
 
 const data = {
-  subTitle: 'Core features',
-  title: 'Smart Jackpots that you may love this anytime & anywhere',
+  subTitle: 'For You',
+  title: 'Share your thouthts, showcase your skills, make friends. Lets do it together',
   features: [
     {
       id: 1,
-      imgSrc: Briefcase,
+      imgSrc: Secure,
       altText: 'Smart Features',
-      title: 'Smart Features',
+      title: 'Do what you love',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'We provide unique space everyone. Focus on your content while we take care of the website and SEO. We make sure you get the right audiance.',
     },
     {
       id: 2,
-      imgSrc: Secure,
+      imgSrc: Briefcase,
       altText: 'Secure Contents',
-      title: 'Secure Contents',
+      title: 'It\'s Us',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Loopthrough is not just a bloging platform. It\'s made to be a community. Sharing your knowledge is the key in developing a community. Write with us, Grow with us.',
     },
   ],
 };

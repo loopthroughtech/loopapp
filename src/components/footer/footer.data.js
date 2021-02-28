@@ -3,8 +3,8 @@ export default [
     header: 'E-mail',
     items: [
       {
-        path: 'loopthroughtech.gmail.com',
-        label: 'loopthroughtech.gmail.com',
+        path: 'https://mailto:loopthrough.tech@gmail.com',
+        label: 'loopthrough',
       },
     //   {
     //     path: '/',
@@ -25,11 +25,11 @@ export default [
     ],
   },
   {
-    header: 'Linkidin',
+    header: 'LinkedIn',
     items: [
       {
         path: '/',
-        label: 'Return Policy ',
+        label: 'Connect with us',
       },
       // {
       //   path: '/',
@@ -50,11 +50,11 @@ export default [
     ],
   },
   {
-    header: 'Contact Us',
+    header: 'Youtube',
     items: [
       {
         path: '/',
-        label: 'Feedback',
+        label: 'vedios',
       },
       // {
       //   path: '/',

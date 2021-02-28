@@ -47,7 +47,7 @@ export default function Banner() {
             Loopthrough
           </Heading>
           <Text as="p" variant="heroSecondary">
-          Have got ideas floating around your which you want to share. We got you covered.
+          Got ideas floating around, We got you covered.
           </Text>
           <Flex>
             <a href="https://blog.loopthrough.tech">

@@ -15,50 +15,50 @@ const data = [
     id: 1,
     imgSrc: Smart,
     altText: 'Smart',
-    title: 'Smart Features',
+    title: 'It is Us',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Loopthrough is not just a bloging platform. It\'s made to be a community. Sharing your knowledge is the key in developing a community. Write with us, Grow with us',
   },
   {
     id: 2,
     imgSrc: Winner,
     altText: 'Performance',
-    title: 'Fast Performance',
+    title: 'Search Appearance',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'We provide unique space everyone. You can focus on your content while we take care of the website and SEO.',
   },
-  {
-    id: 3,
-    imgSrc: Cloud,
-    altText: 'Content',
-    title: 'Unlimited Content',
-    text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
-  },
-  {
-    id: 4,
-    imgSrc: Setting,
-    altText: 'Customization',
-    title: 'Unlimited Customization',
-    text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
-  },
-  {
-    id: 5,
-    imgSrc: Design,
-    altText: 'Productivity',
-    title: 'Boost Productivity',
-    text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
-  },
-  {
-    id: 6,
-    imgSrc: Chat,
-    altText: 'Support',
-    title: 'Customer Support',
-    text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
-  },
+  // {
+  //   id: 3,
+  //   imgSrc: Cloud,
+  //   altText: 'Content',
+  //   title: 'Unlimited Content',
+  //   text:
+  //     'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+  // },
+  // {
+  //   id: 4,
+  //   imgSrc: Setting,
+  //   altText: 'Customization',
+  //   title: 'Unlimited Customization',
+  //   text:
+  //     'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+  // },
+  // {
+  //   id: 5,
+  //   imgSrc: Design,
+  //   altText: 'Productivity',
+  //   title: 'Boost Productivity',
+  //   text:
+  //     'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+  // },
+  // {
+  //   id: 6,
+  //   imgSrc: Chat,
+  //   altText: 'Support',
+  //   title: 'Customer Support',
+  //   text:
+  //     'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+  // },
 ];
 
 export default function Feature() {
