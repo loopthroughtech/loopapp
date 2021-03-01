@@ -12,7 +12,7 @@ const data = [
     id: 1,
     imgSrc: Vector,
     altText: 'Blog',
-    title: 'Blooging platform',
+    title: 'Blogging platform',
     text:
       'An always free platform for anyone to write down their thoughts',
   },
