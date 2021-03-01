@@ -30,7 +30,7 @@ const data = [
     id: 4,
     title: 'Reach out',
     text:
-      'If you have a an idea to make your blog better, need support, or want to collaborate hit us',
+      'If you have an idea to make your blog better, need support, or want to collaborate, hit us',
   },
 ];
 
