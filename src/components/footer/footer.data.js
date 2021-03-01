@@ -54,7 +54,7 @@ export default [
     items: [
       {
         path: '/',
-        label: 'vedios',
+        label: 'videos',
       },
       // {
       //   path: '/',
